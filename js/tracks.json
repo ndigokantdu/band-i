@@ -1,0 +1,56 @@
+[
+ { "title":"My kingdom for a doll hair",
+   "artist":"Saison",
+   "src":"music/01 Jumpin all the way to japan.m4a",
+   "art":"art/rainloop.jpg"
+ },
+
+ { "title":"Moore Dohers",
+   "artist":"Saison",
+   "src":"music/10016 faires farm rd 3.m4a",
+   "art":"art/glasspad.jpg"
+ },
+
+ { "title":"Dumpt",
+   "artist":"Saison",
+   "src":"music/27-03 Dirty Darkness.mp3",
+   "art":"art/drift.jpg"
+ },
+
+   { "title":"pfftt",
+   "artist":"Saison",
+   "src":"music/4-27 Cloud Sound.mp3",
+   "art":"art/drift.jpg"
+ },
+
+   { "title":"Um sum dum?",
+   "artist":"Saison",
+   "src":"music/Sharks... maru..m4a",
+   "art":"art/drift.jpg"
+ },
+
+   { "title":"Umpteenth",
+   "artist":"Saison",
+   "src":"music/Tremolo tar.m4a",
+   "art":"art/drift.jpg"
+ },
+
+   { "title":"Water u doing?",
+   "artist":"Saison",
+   "src":"music/White on rice.m4a",
+   "art":"art/drift.jpg"
+ },
+
+   { "title":"Hop",
+   "artist":"Saison",
+   "src":"music/Yu3 2.m4a",
+   "art":"art/drift.jpg"
+ }
+
+  { "title":"Hi",
+   "artist":"Saison",
+   "src":"music/YU3.m4a",
+   "art":"art/drift.jpg"
+ }
+
+]
