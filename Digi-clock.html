@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digital Clock</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; }
+        .clock { font-size: 2em; margin: 20px; }
+    </style>
+</head>
+<body>
+    <h1>Digital Clock</h1>
+    <div class="clock" id="clock">Loading...</div>
+    <script>
+        function updateClock() {
+            const utc = new Date();
+            const timeZones = [
+                { name: 'UTC', offset: 0 },
+                { name: 'EST', offset: -5 },
+                { name: 'CST', offset: -6 },
+                { name: 'MST', offset: -7 },
+                { name: 'PST', offset: -8 },
+                { name: 'CET', offset: 1 },
+                { name: 'IST', offset: 5.5 }
+            ];
+            let clockHtml = '';
+            timeZones.forEach(({ name, offset }) => {
+                const localTime = new Date(utc.getTime() + (offset * 60 * 60 * 1000));
+                clockHtml += `<div>${name}: ${localTime.toISOString().slice(0, 19).replace('T', ' ')}</div>`;
+            });
+            document.getElementById('clock').innerHTML = clockHtml;
+        }
+        setInterval(updateClock, 1000);
+        updateClock();
+    </script>
+</body>
+</html>
