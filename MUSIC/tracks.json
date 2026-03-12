@@ -2,55 +2,55 @@
  { "title":"My kingdom for a doll hair",
    "artist":"Saison",
    "src":"music/01 Jumpin all the way to japan.m4a",
-   "art":"art/one.jpg"
+   "art":"art/joke.png"
  },
 
  { "title":"Moore Dohers",
    "artist":"Saison",
    "src":"music/10016 faires farm rd 3.m4a",
-   "art":"art/two.jpg"
+   "art":"art/trim.png"
  },
 
  { "title":"Dumpt",
    "artist":"Saison",
    "src":"music/27-03 Dirty Darkness.mp3",
-   "art":"art/three.jpg"
+   "art":"art/klip.png"
  },
 
    { "title":"pfftt",
    "artist":"Saison",
    "src":"music/4-27 Cloud Sound.mp3",
-   "art":"art/four.jpg"
+   "art":"art/tao.png"
  },
 
    { "title":"Um sum dum?",
    "artist":"Saison",
    "src":"music/Sharks... maru..m4a",
-   "art":"art/five.jpg"
+   "art":"art/tao.png"
  },
 
    { "title":"Umpteenth",
    "artist":"Saison",
    "src":"music/Tremolo tar.m4a",
-   "art":"art/six.jpg"
+   "art":"art/tao.png"
  },
 
    { "title":"Water u doing?",
    "artist":"Saison",
    "src":"music/White on rice.m4a",
-   "art":"art/seven.jpg"
+   "art":"art/trim.png"
  },
 
    { "title":"Hop",
    "artist":"Saison",
    "src":"music/Yu3 2.m4a",
-   "art":"art/eight.jpg"
+   "art":"art/joke.png"
  }
 
   { "title":"Hi",
    "artist":"Saison",
    "src":"music/YU3.m4a",
-   "art":"art/nine.jpg"
+   "art":"art/tao.png"
  }
 
 ]
